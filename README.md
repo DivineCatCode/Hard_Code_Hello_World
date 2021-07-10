@@ -2,7 +2,7 @@
 The trickiest output is "Hello, World!" in the world / Самый сложный вывод "Hello, World!" в мире
 
 
-Главная задача: Реализовать строку print('Hello, World!'), как можно сложнее!
+Главная задача: Реализовать строку print('Hello, World!'), как можно сложнее!<br>
 *Разрешается вывод в CLI(console), Webform(broser) и windowsform
 
 При этом вы должны следовать правилам!
